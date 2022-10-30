@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/hatemhenchir/Product-preview-card-component)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Live](https://hatemhenchir.github.io/Product-preview-card-component/)
 
 ## My process
 
